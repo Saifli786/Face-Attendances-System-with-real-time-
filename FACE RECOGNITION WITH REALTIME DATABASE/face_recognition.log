@@ -1,0 +1,8 @@
+2025-08-23 14:00:17,929 - INFO - Firebase initialized successfully
+2025-08-23 14:00:17,930 - INFO - Loading encoding file...
+2025-08-23 14:00:17,931 - INFO - Encoding file loaded successfully with 8 students
+2025-08-23 14:00:17,945 - INFO - Loaded 4 mode images
+2025-08-23 14:00:18,391 - INFO - Starting face recognition system...
+2025-08-23 14:00:24,739 - INFO - Started Firebase thread for student 11232959
+2025-08-23 14:00:44,083 - INFO - Program interrupted by user
+2025-08-23 14:00:44,122 - INFO - Application closed
